@@ -9,4 +9,5 @@
   <li>Laravel (Aprendiendo)</li>
   <li>Next JS (Aprendiendo)</li>
   <li>Docker (Aprendiendo)</li>
+  <li>Astro (Aprendiendo)</li>
 </ul>
