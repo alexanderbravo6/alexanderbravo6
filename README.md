@@ -5,9 +5,9 @@
 <ul>
   <li>Yii 1</li>
   <li>MySQL</li>
-  <li>React JS (Aprendiendo)</li>
-  <li>Laravel (Aprendiendo)</li>
-  <li>Next JS (Aprendiendo)</li>
-  <li>Docker (Aprendiendo)</li>
-  <li>Astro (Aprendiendo)</li>
+  <li>React JS </li>
+  <li>Laravel </li>
+  <li>Next JS </li>
+  <li>Docker</li>
+  <li>Astro</li>
 </ul>
